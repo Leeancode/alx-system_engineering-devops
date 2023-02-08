@@ -1,0 +1,5 @@
+#!/bin/bash
+touch 2-bring_me_home 3-listfiles 4-listmorefiles 
+echo "cd ~" > 2-bring_me_home
+echo "ls -l"> 3-listfiles
+echo "ls -la" > 4-listmorefiles
