@@ -1,3 +1,4 @@
 #!/bin/bash
-touch 1-who_am_i
-echo "#!/bin/bash" > 1-who_am_i
+touch 3-new_owner
+echo "#!/bin/bash\n" > 3-new_owner
+echo "sudo chown betty hello" > 3-new_owner
