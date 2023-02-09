@@ -1,4 +1,4 @@
 #!/bin/bash
-touch 3-new_owner
-echo "#!/bin/bash\n" > 3-new_owner
-echo "sudo chown betty hello" > 3-new_owner
+touch 5-execute
+echo -e "#!/bin/bash\nchmod u+x hello" > 5-execute
+chmod u+x 5-execute
