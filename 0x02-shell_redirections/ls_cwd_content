@@ -1,5 +1,5 @@
-total 68
-drwxrwxr-x 2 code code 4096 feb 13 14:13 .
+total 64
+drwxrwxr-x 2 code code 4096 feb 13 14:21 .
 drwxrwxr-x 6 code code 4096 feb 13 11:16 ..
 -rwxrw-r-- 1 code code   32 feb 13 13:05 0-hello_world
 -rwxrw-r-- 1 code code   28 feb 13 12:08 1-confused_smiley
@@ -9,11 +9,10 @@ drwxrwxr-x 6 code code 4096 feb 13 11:16 ..
 -rwxrw-r-- 1 code code   23 feb 13 12:59 5-firstlines
 -rwxrw-r-- 1 code code   36 feb 13 13:41 6-third_line
 -rwxrw-r-- 1 code code   99 feb 13 13:59 7-file
--rwxrw-r-- 1 code code   36 feb 13 14:13 8_cwd_state
--rwxrw-r-- 1 code code   60 feb 13 14:12 8_cwd_state~
+-rwxrw-r-- 1 code code   36 feb 13 14:21 8-cwd_content
 -rw-rw-r-- 1 code code   12 feb 13 14:01 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rwxrw-r-- 1 code code  110 feb 13 14:12 createfile
 -rwxrw-r-- 1 code code   50 feb 13 12:57 createFileExecution
 -rw-rw-r-- 1 code code  118 feb 13 13:41 iacta
--rw-rw-r-- 1 code code    0 feb 13 14:13 ls_cwd_content
+-rw-rw-r-- 1 code code    0 feb 13 14:21 ls_cwd_content
 -rw-rw-r-- 1 code code  140 feb 13 11:15 README.md
