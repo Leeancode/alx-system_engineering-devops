@@ -1,0 +1,5 @@
+#!/bin/bash
+#touch 0-hello_world
+#echo \echo '"Hello, World"' > 0-hello_world
+touch 1-confused_smiley
+echo
