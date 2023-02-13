@@ -1,4 +1,4 @@
 #!/bin/bash
-touch 10-no_more_js
-echo "#!/bin/bash" > 10-no_more_js
-echo "find . -type f -name "*.js"" >> 10-no_more_js
+touch 12-newest_files
+echo "#!/bin/bash" > 12-newest_files
+echo "ls -t1 | head -n 10" >> 12-newest_files
