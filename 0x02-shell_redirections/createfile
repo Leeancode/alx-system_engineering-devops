@@ -1,0 +1,3 @@
+#!/bin/bash
+touch 5-firstlines
+echo "head -n 10 /etc/passwd" > 5-firstlines
