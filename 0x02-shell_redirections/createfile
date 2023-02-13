@@ -1,4 +1,4 @@
 #!/bin/bash
-touch 12-newest_files
-echo "#!/bin/bash" > 12-newest_files
-echo "ls -t1 | head -n 10" >> 12-newest_files
+touch 15-countthatword
+echo "#!/bin/bash" > 15-countthatword
+echo "grep -c -i "'bin'" /etc/passwd" >> 15-countthatword
