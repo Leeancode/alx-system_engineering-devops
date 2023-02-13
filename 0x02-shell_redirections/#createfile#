@@ -1,7 +1,7 @@
 #!/bin/bash
 #touch 16-whatsnext 17-hidethisword 18-lettersonly 19-AZ 20-hiago 21-reverse 22-users_and_homes
 #echo "#!/bin/bash">> 17-hidethisword
-echo "\tr -d "Cc"" >> 20-hiago
+echo "
 #echo "#!/bin/bash" >> 18-lettersonly
 #echo "#!/bin/bash" >> 19-AZ
 #echo "#!/bin/bash" >> 20-hiago
